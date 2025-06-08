@@ -11,7 +11,7 @@ Landing page desarrollada como parte del curso de React con Vite de Juan Ortiz. 
 
 ## 📸 Captura
 
-![Captura](./assets/captura.png)
+![Captura](src\assets\captura.png)
 
 ## 🚀 Características
 
