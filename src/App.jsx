@@ -1,4 +1,3 @@
-import './App.css'
 import Hero from './components/hero/Hero'
 import Navbar from './components/navbar/Navbar'
 import Fondo from './assets/Fondo.png'
@@ -9,7 +8,7 @@ function App() {
     backgroundImage: `url(${Fondo})`,
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'bottom',
-    bacgroundSize: 'cover',
+    backgroundSize: 'cover',
     position: 'relative'
   }
 
